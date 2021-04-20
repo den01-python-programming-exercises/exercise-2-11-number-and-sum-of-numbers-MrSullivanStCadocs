@@ -14,8 +14,8 @@ def main():
         sumOfNumbers = sumOfNumbers + number
     
     print("Number of numbers: " + str(amountOfNumbers))
-    print("Sum of the numbers: " + str(sumOfNumbers))
-    
+    print("Sum of numbers: " + str(sumOfNumbers))
+
 
 if __name__ == '__main__':
     main()
